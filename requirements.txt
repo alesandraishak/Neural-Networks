@@ -1,2 +1,8 @@
 # external libraries required go here
-# ex Numpy=2.2.0
+# ex numpy
+numpy
+opencv-python
+tensorflow
+Pillow
+matplotlib
+seaborn

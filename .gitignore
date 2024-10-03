@@ -1,0 +1,6 @@
+# Mac os
+.DS_Store
+
+data/train/*
+data/test/*
+data/val/*
